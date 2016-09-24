@@ -13,3 +13,6 @@ fi
 
 # hub
 eval "$(hub alias -s)"
+
+export APPID=1064005514426779302
+export AFID=1538c9b2.3ad2c6a1.1538c9b3.36d94ed7
