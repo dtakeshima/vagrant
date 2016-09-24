@@ -1,0 +1,11 @@
+[color]
+	ui = auto
+[push]
+	default = simple
+[core]
+	editor = emacs
+	autocrl = input
+
+[user]
+	email = b1611dt@aiit.ac.jp
+	name = dtakeshima
